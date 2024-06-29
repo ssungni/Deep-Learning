@@ -9,6 +9,6 @@
 3. [Gradient Descent](https://i-about-me.tistory.com/133)
 4. [Overfitting](https://i-about-me.tistory.com/144)
 5. [ANN-(1)](https://i-about-me.tistory.com/150)
-   [ANN-(2)](ttps://i-about-me.tistory.com/169)
+   [ANN-(2)](https://i-about-me.tistory.com/169)
 7. [Autoencoder]
 8. [CNN]
